@@ -1,0 +1,63 @@
+D:\Passolig\Passolig\Passolig\bin\Debug\Passolig.exe.config
+D:\Passolig\Passolig\Passolig\bin\Debug\Passolig.exe
+D:\Passolig\Passolig\Passolig\bin\Debug\Passolig.pdb
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.AssemblyReference.cache
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.SuggestedBindingRedirects.cache
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.Login.resources
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.Properties.Resources.resources
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.GenerateResource.cache
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.CoreCompileInputs.cache
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.exe
+D:\Passolig\Passolig\Passolig\obj\Debug\Passolig.pdb
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\bin\Debug\Passolig.exe.config
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\bin\Debug\Passolig.exe
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\bin\Debug\Passolig.pdb
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.AssemblyReference.cache
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.SuggestedBindingRedirects.cache
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.Login.resources
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.Properties.Resources.resources
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.GenerateResource.cache
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.CoreCompileInputs.cache
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.exe
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.pdb
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.mainForm.resources
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.MatchesChild.resources
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.BuyTicket.resources
+D:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.ChooseSeat.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\bin\Debug\Passolig.exe.config
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\bin\Debug\Passolig.exe
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\bin\Debug\Passolig.pdb
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.AssemblyReference.cache
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.SuggestedBindingRedirects.cache
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.BuyTicket.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.ChooseSeat.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.Login.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.MainForm.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.MatchesChild.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.Properties.Resources.resources
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.GenerateResource.cache
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.csproj.CoreCompileInputs.cache
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.exe
+E:\02 - Visual Studio Project\Passolig\Passolig\Passolig\obj\Debug\Passolig.pdb
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.csproj.AssemblyReference.cache
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.BuyTicket.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.ChooseSeat.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.Login.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.MainForm.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.MatchesChild.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.Pay.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.Properties.Resources.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.csproj.GenerateResource.cache
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.csproj.CoreCompileInputs.cache
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.exe
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.pdb
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\bin\Debug\Passolig.exe.config
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\bin\Debug\Passolig.exe
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\bin\Debug\Passolig.pdb
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.Tickets.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.Account.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.AdminMatches.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.AdminPanel.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.AdminTickets.resources
+C:\Projeler\02 - Visual Studio Project\PassoligProjeEski\Passolig\Passolig\obj\Debug\Passolig.AdminAccount.resources
